@@ -36,7 +36,7 @@
     "react-hook-form": "^6.2.0",
     "react-perfect-scrollbar": "^1.5.3",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "^3.0.1"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "init": "npm install && pip install -r backend/requirements.txt",
